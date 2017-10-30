@@ -1,0 +1,27 @@
+
+[
+        {
+            "username": "tywin_lannister",
+            "firstName": "Tywin",
+            "lastName": "Lannister",
+            "email": "tywin@lannister.local"
+        },
+        {
+            "username": "jamie_lannister",
+            "firstName": "Jamis",
+            "lastName": "Lannister",
+            "email": "jamie@lannister.local"
+        },
+        {
+            "username": "cersei_lannister",
+            "firstName": "Cersei",
+            "lastName": "Lannister",
+            "email": "cersei@lannister.local"
+        },
+        {
+            "username": "tyrion_lannister",
+            "firstName": "Tyrion",
+            "lastName": "Lannister",
+            "email": "tyrion@lannister.local"
+        }
+]
